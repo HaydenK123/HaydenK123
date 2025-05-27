@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hey, I’m Hayden Knicely
 
-<!--
-**HaydenK123/HaydenK123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Computer Programming student at Georgian College, graduating in Fall 2025.
 
-Here are some ideas to get you started:
+💻 I'm passionate about full-stack web development, clean UI, and building tools that solve real-world problems. I'm currently focused on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- JavaScript, Node.js, Express, MongoDB
+- Python scripting & automation
+- SQL, Git, and REST APIs
+
+🚀 Projects I've built:
+- **[Travel Wishlist App](https://github.com/HaydenK123/Assignment2-TravelWishlist):** Full-stack Node.js app with authentication and cloud deployment
+- **Budget Tracker App:** Expense tracking tool
+- **Robot Animation:** CSS-only animated robot built with Flexbox and transitions
+
+📚 Currently working through the [Zero to Mastery Web Dev](https://zerotomastery.io) career path and retaking a Python automation course.
+
+📫 Reach me at: [hayden.knicely@icloud.com](mailto:hayden.knicely@icloud.com)
+
+---
+🧠 Always learning. Always building.
