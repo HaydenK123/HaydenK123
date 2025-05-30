@@ -2,7 +2,7 @@
 
 🎓 I'm a Computer Programming student at Georgian College, graduating in Fall 2025.
 
-💻 I'm passionate about full-stack web development, clean UI, and building tools that solve real-world problems. I'm currently focused on:
+💻 I enjoy full-stack web development, clean UI, and building tools that solve real-world problems. I'm currently focused on:
 
 - JavaScript, Node.js, Express, MongoDB
 - Python scripting & automation
