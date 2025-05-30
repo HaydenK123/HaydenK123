@@ -13,7 +13,7 @@
 - **Budget Tracker App:** Expense tracking tool
 - **Robot Animation:** CSS-only animated robot built with Flexbox and transitions
 
-📚 Currently working through the [Zero to Mastery Web Dev](https://zerotomastery.io) career path and retaking a Python automation course.
+📚 Currently working through the [Zero to Mastery Web Dev](https://zerotomastery.io) career path and taking a Python automation course.
 
 📫 Reach me at: [hayden.knicely@icloud.com](mailto:hayden.knicely@icloud.com)
 
