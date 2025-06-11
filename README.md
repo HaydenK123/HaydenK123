@@ -1,21 +1,23 @@
 # 👋 Hey, I’m Hayden Knicely
 
-🎓 I'm a Computer Programming student at Georgian College, graduating in Fall 2025.
+🎓 I'm a Computer Programming student at Georgian College, graduating in April 2026.
 
-💻 I enjoy full-stack web development, clean UI, and building tools that solve real-world problems. I'm currently focused on:
+💻 I’m into full-stack development, Python automation, and building useful tools with clean UI. Right now, I’m focused on:
 
-- JavaScript, Node.js, Express, MongoDB
-- Python scripting & automation
-- SQL, Git, and REST APIs
+- JavaScript, Node.js, Express, MongoDB  
+- Python scripting & data processing  
+- SQL, Git, REST APIs
 
-🚀 Projects I've built:
-- **[Travel Wishlist App](https://github.com/HaydenK123/Assignment2-TravelWishlist):** Full-stack Node.js app with authentication and cloud deployment
-- **Budget Tracker App:** Expense tracking tool
-- **Robot Animation:** CSS-only animated robot built with Flexbox and transitions
+🚀 Projects I’ve built:
+- Travel Wishlist App: Full-stack app with login, CRUD, and cloud deployment  
+  → https://github.com/HaydenK123/Assignment2-TravelWishlist
+- Budget Tracker App: In-progress tool for tracking expenses and editing entries  
+- Robot Animation: Fun UI project using only CSS and Flexbox transitions
 
-📚 Currently working through the [Zero to Mastery Web Dev](https://zerotomastery.io) career path and taking a Python automation course.
+📚 Currently working through the Zero to Mastery Web Developer career path and a Python automation course.
 
-📫 Reach me at: [hayden.knicely@icloud.com](mailto:hayden.knicely@icloud.com)
+📫 Reach me at: hayden.knicely@icloud.com
 
 ---
+
 🧠 Always learning. Always building.
